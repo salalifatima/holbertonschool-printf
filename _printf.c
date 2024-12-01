@@ -9,10 +9,10 @@
  */
 int _printf(const char *format, ...)
 {
+	va_list args;
 	int i = 0;
 	unsigned int len = 0;
-	va_list args;
-
+	
 	va_start(args, format);
 	while (format[i])
 	{
