@@ -10,8 +10,8 @@ int print_number(int num)
 {
 	int len = 1;
 	int ulen = 1;
-	int numcpy;
 	int i = 0;
+	int numcpy;
 	int divisor = 1;
 
 	if (num == INT_MIN)
