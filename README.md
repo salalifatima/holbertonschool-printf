@@ -4,13 +4,13 @@ This repository contains a custom `printf` function as part of the Holberton Sch
 
 ## Table of Contents
 
+- [Authors](#authors)
 - [Description](#description)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Files](#files)
 - [Testing](#testing)
-- [Authors](#authors)
 
 ## Description
 
@@ -26,8 +26,8 @@ Supported Format specifiers:
 
 ## Requirements
 
-- GCC (GNU Compiler Collection)
 - C standard library
+- GCC (GNU Compiler Collection)
 
 ## Installation
 
